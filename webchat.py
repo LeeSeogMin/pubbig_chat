@@ -73,7 +73,7 @@ st.set_page_config(
 page_title="공빅 AI",
 page_icon=":books:")
 
-st.title("_공공인재빅데이터융학학 :red[AI 조교]_ :books:")
+st.title("_공공인재빅데이터융합학 :red[AI 조교]_ :books:")
 
 # st.set_page_config(page_title="공빅 AI 조교", page_icon=":bird:")
 # st.header("공빅 AI 조교 :bird:")

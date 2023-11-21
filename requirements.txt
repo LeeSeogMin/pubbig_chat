@@ -1,0 +1,10 @@
+pysqlite3-binary
+langchain
+chromadb
+sentence-transformers
+faiss-cpu
+tiktoken
+openai
+pypdf
+loguru
+dotenv

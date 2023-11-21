@@ -6,5 +6,4 @@ faiss-cpu
 tiktoken
 openai
 pypdf
-loguru
 dotenv
